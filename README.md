@@ -1,2 +1,2 @@
 # AlanTest
-test pull
+Test pull
